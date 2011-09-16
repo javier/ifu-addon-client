@@ -1,0 +1,6 @@
+.bundle
+.rmvrc
+db/*.sqlite3
+log/*.log
+tmp/
+db/*.sqlite3
